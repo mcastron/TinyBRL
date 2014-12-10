@@ -1,5 +1,6 @@
 scripts
 .DS_Store
+changes.txt
 
 # Compiled Object files
 *.slo
